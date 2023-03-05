@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "fname": "nesrine",
+        "lname": "benromdhane",
+        "city": "tunis",
+        "age": 24,
+        "degAverage": "80"
+    },
+    {
+        "id": 2,
+        "fname": "nesrine",
+        "lname": "benromdhane",
+        "city": "tunis",
+        "age": 24,
+        "degAverage": 80
+    },
+    {
+        "id": 4,
+        "fname": "nesrine",
+        "lname": "benromdhane",
+        "city": "tunis",
+        "age": 26,
+        "degAverage": 80
+    },
+    {
+        "id": 5,
+        "fname": "nesrine",
+        "lname": "benromdhane",
+        "city": "tunis",
+        "age": 26,
+        "degAverage": 87
+    }
+]
